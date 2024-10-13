@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "The Battle for Middle-earth II",
+    "Registry": "SOFTWARE\\WOW6432Node\\Electronic Arts",
+    "Roaming": "/AppData/Roaming/My Battle for Middle-earth(tm) II Files",
+    "RoamingFiles": [
+      "/Options.ini",
+      "/Worldbuilder.ini"
+    ],
+    "EXE": "lotrbfme2.exe"
+  },
+  {
+    "Name": "The Lord of the Rings, The Rise of the Witch-king",
+    "Registry": "SOFTWARE\\WOW6432Node\\Electronic Arts",
+    "Roaming": "/AppData/Roaming/My The Lord of the Rings, The Rise of the Witch-king Files",
+    "RoamingFiles": [
+      "/Options.ini",
+      "/Worldbuilder.ini"
+    ],
+    "EXE": "lotrbfme2ep1.exe"
+  }
+]
